@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @padi-dev-vietnt2
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently working with nodejs
 - 💞️ I’m looking to collaborate on PHP, NODEJS, VUEJS
 - 📫 How to reach me: 
   + Organization email: vietnt2@paditech.com
